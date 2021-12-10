@@ -1,5 +1,11 @@
 # MHD_Analytical
 
+
+
+[![DOI](https://zenodo.org/badge/437034681.svg)](https://zenodo.org/badge/latestdoi/437034681)
+
+
+
  A repository containing an implementation of Hunts analytical solution (using the exponential implementation of Ni et. al.) that can be used to generate anaytical solutions for Hunt and Shercliff flow cases in channel flow. For Further information please see the References.
 
 The function "sum()" returns the sum over the Fourier series. An example application is included in the main function of the cpp file.
