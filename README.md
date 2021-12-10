@@ -1,6 +1,7 @@
 # MHD_Analytical
 
 
+To cite this code, if you use it in your work, please use the following DOI:
 
 [![DOI](https://zenodo.org/badge/437034681.svg)](https://zenodo.org/badge/latestdoi/437034681)
 
