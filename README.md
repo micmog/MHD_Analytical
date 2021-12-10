@@ -6,6 +6,6 @@ The function "sum()" returns the sum over the Fourier series. An example applica
 
 ## References
 
-[1]	Hunt, J. (1965). Magnetohydrodynamic flow in rectangular ducts. Journal of Fluid Mechanics, 21(4), 577-590. doi:10.1017/S0022112065000344
-[2]	Ni, M.J., Munipalli, R., Huang, P., Morley, N.B. and Abdou, M.A., 2007. A current density conservative scheme for incompressible MHD flows at a low magnetic Reynolds number. Part II: On an arbitrary 		collocated mesh. Journal of Computational Physics, 227(1), pp.205-228.
-[3]	Tassone, A. http://dx.doi.org/10.13140/RG.2.2.12839.55201
+*	Hunt, J. (1965). Magnetohydrodynamic flow in rectangular ducts. Journal of Fluid Mechanics, 21(4), 577-590. doi:10.1017/S0022112065000344
+*	Ni, M.J., Munipalli, R., Huang, P., Morley, N.B. and Abdou, M.A., 2007. A current density conservative scheme for incompressible MHD flows at a low magnetic Reynolds number. Part II: On an arbitrary 		collocated mesh. Journal of Computational Physics, 227(1), pp.205-228.
+*	Tassone, A. http://dx.doi.org/10.13140/RG.2.2.12839.55201
